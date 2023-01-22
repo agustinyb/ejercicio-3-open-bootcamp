@@ -1,6 +1,5 @@
 # ejercicio-3-open-bootcamp
 
-//Ejercicio3-introduccion a la programacion - openbootcamp
 public class Main {
     public static void main(String[] args) {
         suma(5, 25, 15);
